@@ -15,18 +15,18 @@ public class Conditional_Statements{
 // Java Ternary Operators
 // Java Switch Statements 
 
-System.out.println(" Welcome for National Voting Booth Line - India");
+// System.out.println(" Welcome for National Voting Booth Line - India");
 
-System.out.println("Please Enter Your Age");
-Scanner sc = new Scanner(System.in);
-int age = sc.nextInt();
+// System.out.println("Please Enter Your Age");
+// Scanner sc = new Scanner(System.in);
+// int age = sc.nextInt();
 
 
-if(age>=18){
-    System.out.println("Congrats! You are Eligible for Voting");
-}else{
-    System.out.println("Sorry! You are not Eligible for Voting");
-}
+// if(age>=18){
+//     System.out.println("Congrats! You are Eligible for Voting");
+// }else{
+//     System.out.println("Sorry! You are not Eligible for Voting");
+// }
 
 
     }
