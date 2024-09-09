@@ -22,15 +22,19 @@ public class Conditional_Statements{
 // int age = sc.nextInt();
 
 
+<<<<<<< HEAD
 // if else Statement 
 
 //Example - 1
 
+=======
+>>>>>>> 911552dd7980e5d2f07e47cc3cf65d0dc9770bc2
 // if(age>=18){
 //     System.out.println("Congrats! You are Eligible for Voting");
 // }else{
 //     System.out.println("Sorry! You are not Eligible for Voting");
 // }
+<<<<<<< HEAD
 
 
 
@@ -131,6 +135,8 @@ if(a>b){
     }
   }
 }
+=======
+>>>>>>> 911552dd7980e5d2f07e47cc3cf65d0dc9770bc2
 
 
 
