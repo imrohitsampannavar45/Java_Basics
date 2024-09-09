@@ -31,7 +31,8 @@ public class Switch{
         case 7:
                System.out.println("Today is Saturday");
                 break;
-
+            default:
+                System.out.println("Not valid Input");
 
 
   }
