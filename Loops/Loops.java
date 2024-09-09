@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Loops{
 
 
@@ -19,8 +21,21 @@ public class Loops{
         // * Update Expression
         // * Body of the loop
 
+// intialization ; condition ; Increment   //  For Loop
+// for(int i=0;i<5000;i++){
+//     System.out.println("Hello World");
+
+// }
 
 
+Scanner sc = new Scanner(System.in);
+System.out.println("Enter a Number");
+int n = sc.nextInt();
+for(int i=0; i<=10; i++){
+    System.out.println(n+" * "+i+" = "+i*n);
 
     }
+    
 }
+}
+
