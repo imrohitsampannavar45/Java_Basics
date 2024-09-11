@@ -1,0 +1,11 @@
+1) How do the Methods Work?
+Answer :
+A Method is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation 
+it is also used to achieve the reusability of code.
+
+
+2) Method Parameters
+A Method Parameters is value acccepted by the Method
+As mentioned earlier, a Method can also have any number of Parameters
+
+Example:  average(int a, int b, int c);
