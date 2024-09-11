@@ -1,0 +1,19 @@
+How to the Arrays Work?
+Answer: Arrays are stored in contiguous memory [Consecutive memory locations.]
+
+
+Creating Arrays
+Approach #1 : int intArray[];
+Approach #2 : int[] intArray;
+
+
+Allocating Memory to array
+intArray = new int[20];
+
+
+
+example:
+int age=[]; // declaration of array
+int age[20] // memory allocated to the age variable 
+
+
