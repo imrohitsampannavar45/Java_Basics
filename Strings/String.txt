@@ -1,8 +1,8 @@
-Java String
+** Java String **
 In java, String is basically an object that represents a sequence of char values.
 An Array of Elements works same as Java String.
 
-How to create java String
+** How to create java String **
 1) By String Literal 
 2) By new Keyword
 
@@ -10,3 +10,38 @@ How to create java String
 1) String name = "Rohit";
 2) String name = new String("Rohit");
 
+** Immutable String in Java **
+String object are Immutable. Immutable Simply means unmodified or unchangeable
+Once a string object is created its data or State cant be changed.
+
+
+Ex: String name = "Anuj";
+    name = "Shivam";
+
+
+    name = name + "Kumar";
+
+
+
+    Comparing Two String in Java
+    The String class equals() Method comapres the original content of the string.
+    It comapres value of string for equality String class provides the following two Method
+    * Public boolean equals(object another) comapres this string to the specified object .
+    * Public boolean equalsIgnoreCase(String another) comapres this string to another String ignoring equalsIgnoreCase
+    
+    Java String Methods
+    toUpperCase()
+    toLowerCase()
+    trim()
+    startsWith()
+    endsWith()
+    equals()
+    equalsIgnoreCase()
+    charAt()
+    valueOf()
+    replace()
+    contains()
+    substring()
+    split()
+    toCharArray()
+    isEmpty()
