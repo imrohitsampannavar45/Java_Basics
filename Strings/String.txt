@@ -1,0 +1,12 @@
+Java String
+In java, String is basically an object that represents a sequence of char values.
+An Array of Elements works same as Java String.
+
+How to create java String
+1) By String Literal 
+2) By new Keyword
+
+
+1) String name = "Rohit";
+2) String name = new String("Rohit");
+
